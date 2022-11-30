@@ -1,0 +1,15 @@
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/bin/Debug/net6.0/Task001_HelloConsole
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/bin/Debug/net6.0/Task001_HelloConsole.deps.json
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/bin/Debug/net6.0/Task001_HelloConsole.runtimeconfig.json
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/bin/Debug/net6.0/Task001_HelloConsole.dll
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/bin/Debug/net6.0/Task001_HelloConsole.pdb
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.csproj.AssemblyReference.cache
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.AssemblyInfoInputs.cache
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.AssemblyInfo.cs
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.csproj.CoreCompileInputs.cache
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.dll
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/refint/Task001_HelloConsole.dll
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.pdb
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/Task001_HelloConsole.genruntimeconfig.cache
+/Users/oxanarybkina/Desktop/С#/Lectures/Tasks/Task001_HelloConsole/obj/Debug/net6.0/ref/Task001_HelloConsole.dll
